@@ -286,7 +286,7 @@
         }
       },
       "additionalProperties": true,
-      "x-tombi-table-keys-order": "schema"
+      "x-tombi-table-keys-order": "ascending"
     },
     "LogLevel": {
       "type": "string",
