@@ -285,7 +285,7 @@
           "default": false
         }
       },
-      "additionalProperties": false,
+      "additionalProperties": true,
       "x-tombi-table-keys-order": "schema"
     },
     "LogLevel": {
